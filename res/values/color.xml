@@ -29,7 +29,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 -->
 
 <resources>
-    <color name="action_bar_background">#ff2e2e2e</color>
+    <color name="action_bar_background">#ffc107</color>
     <color name="audiofx_background_color">#cc191919</color>
     <color name="eq_preset_label_text_color">#ff808080</color>
     <color name="reverb_label_text_color">#ff808080</color>
@@ -42,11 +42,11 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <color name="disabled_knob">#575757</color>
 
     <color name="primary">#607D8B</color>
-    <color name="primary_dark">#455A64</color>
+    <color name="primary_dark">#ffc107</color>
     <color name="accent">#78909C</color>
 
     <color name="white">#fafafa</color>
-    <color name="black">#212121</color>
+    <color name="black">#ffc107</color>
     <color name="grid_lines">#22ffffff</color>
     <color name="cb">#88ffffff</color>
     <color name="freq_hl">#2000ddff</color>
